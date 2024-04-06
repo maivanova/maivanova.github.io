@@ -18,6 +18,14 @@
     <lastmod>2024-04-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>http://localhost:1313/post/%D0%BF%D0%BE%D1%81%D1%82-%D0%BF%D1%80%D0%BE-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8E-1/</loc>
+    <lastmod>2024-04-06T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/post/%D0%BF%D0%BE%D1%81%D1%82-%D0%BF%D1%80%D0%BE-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8E-2/</loc>
+    <lastmod>2024-04-06T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://localhost:1313/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -88,12 +96,6 @@
   </url><url>
     <loc>http://localhost:1313/publication-type/paper-conference/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/post/%D0%BF%D0%BE%D1%81%D1%82-%D0%BF%D1%80%D0%BE-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8E-1/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/post/%D0%BF%D0%BE%D1%81%D1%82-%D0%BF%D1%80%D0%BE-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8E-2/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
